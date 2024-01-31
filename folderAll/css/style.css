@@ -1,0 +1,41 @@
+.container{
+    background-color:bisque;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 3rem;
+
+}
+.card{
+    background-color:antiquewhite;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-left: 280px;
+    margin-right: 280px;
+    padding-bottom: 0px;
+   
+
+    border-color: black;
+    border-style: solid;
+    border-radius:10px;
+   
+  
+    
+}
+#button{
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+
+ 
+
+
+
+
+
+
+    
